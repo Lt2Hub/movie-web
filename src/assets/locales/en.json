@@ -92,13 +92,13 @@
     "tagline": "Watch your favourite shows and movies with this open source streaming app."
   },
   "global": {
-    "name": "movie-web",
+    "name": "DaGrizz",
     "pages": {
       "about": "About",
       "dmca": "DMCA",
       "login": "Login",
       "onboarding": "Setup",
-      "pagetitle": "{{title}} - movie-web",
+      "pagetitle": "{{title}} - DaGrizz",
       "register": "Register",
       "settings": "Settings"
     }
