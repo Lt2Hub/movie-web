@@ -142,7 +142,7 @@
       },
       "night": {
         "default": "What would you like to watch tonight?",
-        "extra": ["Tired? I hear The Exorcist is good."]
+        "extra": ["Tired? I hear The Lego Movie is good!"]
       }
     }
   },
