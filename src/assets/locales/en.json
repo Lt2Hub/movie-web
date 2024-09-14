@@ -141,7 +141,7 @@
         "extra": ["I hear Before Sunrise is good"]
       },
       "night": {
-        "default": "What would you like to watch tonight?",
+        "default": "Watch the Lego Movie!",
         "extra": ["Tired? I hear The Lego Movie is good!"]
       }
     }
